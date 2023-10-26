@@ -1,0 +1,55 @@
+body {
+    background: #f3f2f3;
+    color: #000000;
+    font-family: Al Bayan, New Peninim MT, Arial, Times New Roman;
+    font-size: 36px;
+}
+#container {
+    background: #FFEAA8;
+    margin: 30px auto;
+    width: 70.25%;
+    height: 650px;
+    text-align: center;
+
+}
+#img1 { 
+    background: #26FF00;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+      
+}
+#text1 {
+    background: #897FD9;
+    float: left;
+    width: 25%;
+    height: 450px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;    
+}
+#img2 {
+    background: #BAE8F6;
+    float: right;
+    width: 75%;
+    height: 450px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+}
+
+#clear {
+    clear: both;
+}
+
+#text2 {
+    background: #FFEAA8;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    
+}
